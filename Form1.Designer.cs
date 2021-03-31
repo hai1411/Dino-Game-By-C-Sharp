@@ -106,6 +106,7 @@
             this.Controls.Add(this.pictureBox3);
             this.Controls.Add(this.trex);
             this.Controls.Add(this.pictureBox1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "Form1";
             this.Tag = "castus";
             this.Text = "T-rex Simple Game";
