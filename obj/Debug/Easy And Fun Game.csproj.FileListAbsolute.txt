@@ -1,0 +1,9 @@
+C:\Users\sonha\source\repos\Easy And Fun Game\bin\Debug\Easy And Fun Game.exe
+C:\Users\sonha\source\repos\Easy And Fun Game\bin\Debug\Easy And Fun Game.pdb
+C:\Users\sonha\source\repos\Easy And Fun Game\obj\Debug\Easy And Fun Game.csprojAssemblyReference.cache
+C:\Users\sonha\source\repos\Easy And Fun Game\obj\Debug\Easy_And_Fun_Game.Form1.resources
+C:\Users\sonha\source\repos\Easy And Fun Game\obj\Debug\Easy_And_Fun_Game.Properties.Resources.resources
+C:\Users\sonha\source\repos\Easy And Fun Game\obj\Debug\Easy And Fun Game.csproj.GenerateResource.cache
+C:\Users\sonha\source\repos\Easy And Fun Game\obj\Debug\Easy And Fun Game.csproj.CoreCompileInputs.cache
+C:\Users\sonha\source\repos\Easy And Fun Game\obj\Debug\Easy And Fun Game.exe
+C:\Users\sonha\source\repos\Easy And Fun Game\obj\Debug\Easy And Fun Game.pdb
